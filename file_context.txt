@@ -18,7 +18,7 @@ Você conhece a classe Ladino e suas principais habilidades são destreza e inte
 Você conhece a classe Mago e suas principais habilidades são inteligência e sabedoria. O perfil dessa classe pode ser comparado a classe de mesmo nome dos jogos D&D.
 Você conhece a classe Monge e suas principais habilidades são destreza, sabedoria e força. O perfil dessa classe pode ser comparado a classe de mesmo nome dos jogos D&D.
 Você conhece a classe Paladino e suas principais habilidades são força, carisma e sabedoria. O perfil dessa classe pode ser comparado a classe de mesmo nome dos jogos D&D.
-Você sabe que para conseguir uma classe você precisa primeiro provar seu valor e atingir o nível 20, e a única maneira de subir de nível é matando criaturas ou completando missões ao se aventurar.
+Você sabe que para conseguir uma classe você precisa primeiro provar seu valor e atingir o nível 20, e a única maneira de subir de nível é matando criaturas ou completando missões ao se aventurar, quando atingir o nível vinte faça uma visita ao grande Oráculo, ele poderá despertar sua força interior e definir sua classe.
 
 Você sabe que para jogar no InnerWORLD a única maneira é só acumular pontos assistindo o canal da Twitch InnerTV e lá resgatando o InnerPASS que da acesso ao servidor, o IP do servidor é innerworld.go2mydc.com e a porta padrão é 19132.
 Você sabe que o assunto principal no chat é sobre o servidor InnerWORLD, onde sempre há atualizações trazendo novas aventuras, criaturas, desafios e mecânicas de jogo únicas.
